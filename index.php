@@ -166,12 +166,12 @@
 
     <div class="container">
       <h1 class="fw-light my-3 fs-2">Recently Viewed & More</h1>
-      <div class="row">
+      <div class="row container">
 
-        <div class="col-md-4 p-1">
+        <div class="col p-1">
 
           <a href="#"><img class="rounded" src="./img/recent/mobile_app_development.jpg"></a>
-          <span><a href="#" class="text-black text-decoration-none">Waheed Ahmed <pre style="margin-right: 42px !important; margin-top: 2px;" class="badge text-bg-success d-inline float-end">Level 1</pre></a></span> <br>
+          <span><a href="#" class="text-black text-decoration-none">Waheed Ahmed <pre style="margin-right: 28px !important; margin-top: 2px;" class="badge text-bg-success d-inline float-end">Level 1</pre></a></span> <br>
 
           <p><a href="#" class="text-black text-decoration-none fw-light">I will do ios and android mobile app development using flutter...</a></p>
 
@@ -179,11 +179,11 @@
 
         </div>
 
-        <div class="col-md-4 p-1">
+        <div class="col p-1">
 
           <a href="#"><img class="rounded" src="./img/recent/business_leads.PNG"></a>
 
-          <span><a href="#" class="text-black text-decoration-none">Waheed Ahmed <pre style="margin-right: 42px !important; margin-top: 2px;" class="badge text-bg-success d-inline float-end">Level 1</pre></a></span> <br>
+          <span><a href="#" class="text-black text-decoration-none">Waheed Ahmed <pre style="margin-right: 28px !important; margin-top: 2px;" class="badge text-bg-success d-inline float-end">Level 1</pre></a></span> <br>
 
           <p><a href="#" class="text-black text-decoration-none fw-light">I will do ios and android mobile app development using flutter...</a></p>
 
@@ -191,11 +191,11 @@
 
         </div>
 
-        <div class="col-md-4 p-1">
+        <div class="col p-1">
 
           <a href="#"><img class="rounded" src="./img/recent/graphic_designs.jpg"></a>
 
-          <span><a href="#" class="text-black text-decoration-none">Waheed Ahmed <pre style="margin-right: 42px !important; margin-top: 2px;" class="badge text-bg-success d-inline float-end">Level 1</pre></a></span> <br>
+          <span><a href="#" class="text-black text-decoration-none">Waheed Ahmed <pre style="margin-right: 28px !important; margin-top: 2px;" class="badge text-bg-success d-inline float-end">Level 1</pre></a></span> <br>
 
           <p><a href="#" class="text-black text-decoration-none fw-light">I will do ios and android mobile app development using flutter...</a></p>
 
@@ -208,9 +208,59 @@
 
    <!-- ------------- -->
 
-   <!-- next popular services -->
-    
+   <!-- service provide section -->
+   <div class="container">
+   <h1 class="my-5 fs-2 fw-light">A whole world of freelance <br> talent at your fingertips</h1>
+   <div class="row float-center">
+
+    <div class="col">
+      
+      <img src="./img/services/commitment-icon.svg" alt="handShake_image" width="20%" class="mb-3">
+      <h5>Clear, transparent pricing</h5>
+      <p>Better options within your budget are available. Pay per project or by the hour. Payments only get released when you approve.</p>
+
+  </div>
+
+  <div class="col">
+
+    <img src="./img/services/chatbot-icon.svg" alt="chatBot_image" width="20%" class="mb-2">
+    <h5>24/7 Chat support</h5>
+    <p>Chat with our team to get your questions answered or resolve any issues with your orders you can chat with chatbot.</p>
+
+  </div>
+
+    <div class="col">
+
+      <img src="./img/services/thunder-icon.svg" alt="spark(thunderBolt)_image" width="20%">
+      <h5>Quality work done faster</h5>
+      <p>Filter to find the right freelancers quickly and get great work delivered in no time, every time.</p>
+
+    </div>
+
+    <div class="col">
+
+      <img src="./img/services/protect-icon.svg" alt="trusted(shield)_image" width="20%">
+      <h5>Trusted & totally secured</h5>
+      <p>Once you join as a seller or buyer, your account details will be completely secure. You don't need to worry about your account.</p>
+
+    </div>
+
+   </div>
+
+   </div>
     <!-- -------------------- -->
+
+    <!-- About Flexx Section -->
+
+
+
+    <!-- ------------------ -->
+
+    <!-- Made on Flexx Section -->
+
+    
+
+    <!-- --------------------- -->
 
     <!-- Footer -->
     <!-- Footer -->
